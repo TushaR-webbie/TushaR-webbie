@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tushar Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A snoopy who loves to explore new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-webbie&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-webbie" /> </p>
@@ -7,7 +7,7 @@
 <p align ="center"> <img src="https://user-images.githubusercontent.com/82540806/146808187-be7d4dac-9c19-47f5-9fe8-eecd6de92e4e.gif" alt="tushar-webbie" width = "250" height= "200"/></a> </p>
 <p align="left"> <a href="https://twitter.com/tumshaar" target="blank"><img src="https://img.shields.io/twitter/follow/tumshaar?logo=twitter&style=for-the-badge" alt="tumshaar" /></a>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently working on **Data Structure and Algorithm**
 
 - 📫 How to reach me **tusharchauhan2222@gmail.com**
 
