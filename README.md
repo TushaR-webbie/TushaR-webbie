@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-webbie" alt="tushar-webbie" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tumshaar" target="blank"><img src="https://img.shields.io/twitter/follow/tumshaar?logo=twitter&style=for-the-badge" alt="tumshaar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tumshaar" target="blank"><img src="https://img.shields.io/twitter/follow/tumshaar?logo=twitter&style=for-the-badge" alt="tumshaar" /></a> </p>![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a6d594a4633684763746f4f492f67697068792e676966](https://user-images.githubusercontent.com/82540806/146807108-1e8f6346-4487-459b-815b-2c497a93a5d3.gif)
+
 
 - 🌱 I’m currently learning **JAVA**
 
