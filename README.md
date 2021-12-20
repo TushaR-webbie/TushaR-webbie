@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-webbie" alt="tushar-webbie" /></a> </p>
 <img src="https://user-images.githubusercontent.com/82540806/146808187-be7d4dac-9c19-47f5-9fe8-eecd6de92e4e.gif" alt="tushar-webbie" width = "200" height= "150" class ="center"/></a>
+<style>
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-
+</style>
 <p align="left"> <a href="https://twitter.com/tumshaar" target="blank"><img src="https://img.shields.io/twitter/follow/tumshaar?logo=twitter&style=for-the-badge" alt="tumshaar" /></a>
 
 - 🌱 I’m currently learning **JAVA**
